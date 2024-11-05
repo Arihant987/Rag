@@ -7,3 +7,5 @@ langchain_openai
 chromadb 
 langchain_core
 langchainhub
+llama-index
+llama-parse
